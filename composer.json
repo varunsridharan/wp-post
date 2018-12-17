@@ -1,0 +1,37 @@
+{
+  "name"        : "varunsridharan/wp-post",
+  "description" : "Simple WP Post Class With Advanced Options.",
+  "type"        : "library",
+  "license"     : "GPL-3.0-or-later",
+  "keywords"    : [
+	"wordpress",
+	"wordpress-development",
+	"wordpress-plugin",
+	"wordpress-theme",
+	"wordpress-library",
+	"wordpress-php-library",
+	"wordpress-posts",
+	"wordpress-module",
+	"wordpress-db",
+	"wordpress-database",
+	"wordpress-post-handler",
+	"vsp-libs",
+	"wordpress-plugin-development",
+	"wordpress-theme-development",
+	"wordpress-plugin-library",
+	"wp-plugin",
+	"wp-theme",
+	"wp-library",
+	"wp-developers",
+	"wp-posts"
+  ],
+  "authors"     : [
+	{
+	  "name"     : "Varun",
+	  "email"    : "varunsridharan23@gmail.com",
+	  "homepage" : "https://varunsridharan.in",
+	  "role"     : "Developer"
+	}
+  ],
+  "require"     : { }
+}
