@@ -33,5 +33,10 @@
 	  "role"     : "Developer"
 	}
   ],
-  "require"     : { }
+  "require"     : { },
+  "autoload"    : {
+	"files" : [
+	  "class-post.php"
+	]
+  }
 }
