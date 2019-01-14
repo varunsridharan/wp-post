@@ -12,11 +12,11 @@ The preferred way to install this extension is through [Composer](http://getcomp
 
 To install **WP_Post library**, simply:
 
-    $ composer require Varunsridharan/WP_Post
+    $ composer require varunsridharan/wp-post
 
 The previous command will only install the necessary files, if you prefer to **download the entire source code** you can use:
 
-    $ composer require Varunsridharan/WP_Post --prefer-source
+    $ composer require varunsridharan/wp-post --prefer-source
 
 You can also **clone the complete repository** with Git:
 
