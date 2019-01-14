@@ -1,5 +1,6 @@
 # WP Post
 Simple WP Post Class With Advanced Options.
+
 [![Latest Stable Version](https://poser.pugx.org/varunsridharan/php-autoloader/version)](https://packagist.org/packages/varunsridharan/wp-post)
 [![Total Downloads](https://poser.pugx.org/varunsridharan/php-autoloader/downloads)](https://packagist.org/packages/varunsridharan/wp-post)
 [![Latest Unstable Version](https://poser.pugx.org/varunsridharan/php-autoloader/v/unstable)](//packagist.org/packages/varunsridharan/wp-post)
