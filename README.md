@@ -1,11 +1,12 @@
 # WP Post
 Simple WP Post Class With Advanced Options.
 
-[![Latest Stable Version](https://poser.pugx.org/varunsridharan/php-autoloader/version)](https://packagist.org/packages/varunsridharan/wp-post)
-[![Total Downloads](https://poser.pugx.org/varunsridharan/php-autoloader/downloads)](https://packagist.org/packages/varunsridharan/wp-post)
-[![Latest Unstable Version](https://poser.pugx.org/varunsridharan/php-autoloader/v/unstable)](//packagist.org/packages/varunsridharan/wp-post)
-[![License](https://poser.pugx.org/varunsridharan/php-autoloader/license)](https://packagist.org/packages/varunsridharan/wp-post)
-[![composer.lock available](https://poser.pugx.org/varunsridharan/php-autoloader/composerlock)](https://packagist.org/packages/varunsridharan/wp-post) 
+[![Latest Stable Version](https://poser.pugx.org/varunsridharan/wp-post/version)](https://packagist.org/packages/varunsridharan/wp-post)
+[![Total Downloads](https://poser.pugx.org/varunsridharan/wp-post/downloads)](https://packagist.org/packages/varunsridharan/wp-post)
+[![Latest Unstable Version](https://poser.pugx.org/varunsridharan/wp-post/v/unstable)](//packagist.org/packages/varunsridharan/wp-post)
+[![License](https://poser.pugx.org/varunsridharan/wp-post/license)](https://packagist.org/packages/varunsridharan/wp-post)
+[![composer.lock available](https://poser.pugx.org/varunsridharan/wp-post/composerlock)](https://packagist.org/packages/varunsridharan/wp-post)
+ 
 
 ## Installation
 The preferred way to install this extension is through [Composer](http://getcomposer.org/download/).
